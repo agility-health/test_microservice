@@ -7,9 +7,9 @@ authors = ["maryia <masha.afanaseva.29@mail.ru>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 Flask = "^2.0.2"
-Flask-SQLAlchemy = "^2.5.1"
 mysqlclient = "^2.0.3"
 Flask-Migrate = "^3.1.0"
+redis = "^3.5.3"
 
 [tool.poetry.dev-dependencies]
 
